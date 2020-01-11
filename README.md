@@ -21,7 +21,7 @@
 
 
 ## HW 3
-* EDA of U.S. Department of Agriculture's dataset on price estimates of fruits and vegetables
+* EDA of U.S. Department of Agriculture's Data on Price Estimates of Fruits and Vegetables
 
 
 ## MIDTERM
