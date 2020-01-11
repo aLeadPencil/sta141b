@@ -35,5 +35,4 @@
 * Interactive Data Visualizations using Plotly
 * Time Series Analysis
 
-* Project Files
-https://www.dropbox.com/sh/bp1jut2ms5n5agx/AACezmSWAC6MCjWAQT_uFc-aa?dl=0
+* Project Files: https://www.dropbox.com/sh/bp1jut2ms5n5agx/AACezmSWAC6MCjWAQT_uFc-aa?dl=0
