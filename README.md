@@ -31,10 +31,9 @@
 
 
 ## Final Project
+* Analysis of Gun Violence Data from 2013-2018
+* Interactive Data Visualizations using Plotly
+* Time Series Analysis
 
-
-
-
-
-project files
+* Project Files
 https://www.dropbox.com/sh/bp1jut2ms5n5agx/AACezmSWAC6MCjWAQT_uFc-aa?dl=0
